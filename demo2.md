@@ -1,5 +1,5 @@
 ***Hi This is text command***
 **Hi This is Git command**
-Hi!!
+Hi!
 Allow
 whatsup
